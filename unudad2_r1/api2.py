@@ -1,3 +1,8 @@
+'''
+Descripcion: Consumiendo API con Python 
+Autor: Felipe Neri Francisco Bueno González 
+Fecha: 23 de noviembre del 2023
+'''
 import requests
 url = "https://google-translate1.p.rapidapi.com/language/translate/v2"
 headers = {
